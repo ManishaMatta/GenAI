@@ -9,3 +9,10 @@ pip install --extra-index-url https://pypi.org/simple ibm-watsonx-ai
 pip install --extra-index-url https://pypi.org/simple ibm_watsonx_ai
 pip install --extra-index-url https://pypi.org/simple email-validator
 pip install --extra-index-url https://pypi.org/simple ibm-watson-machine-learning
+
+## Use LLMs with watsonx.ai Locally
+> pip install ibm-watson-machine-learning 
+
+### Get your Own API key and project ID
+
+sab44018@gmail.com
